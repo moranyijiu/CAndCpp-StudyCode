@@ -1,7 +1,5 @@
 # include <iostream>
 # include <string>
-# include <vector>
-# include <iterator>
 
 # define KEY "123456"
 
